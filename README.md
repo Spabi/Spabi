@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Spabi
-- 👀 I’m interested in Data, Programming, AI
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on any fun/challenging projects relating to data
-- 📫 How to reach me jpwoods861@gmail.com
+- 👀 I’m focused on Data, Programming, AI
+- 🌱 I’m currently learning anything and everything data science
+- 💞️ I'd love to collaborate on any fun/challenging projects relating to data
+- 📫 Reach me at jpwoods861@gmail.com
